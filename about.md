@@ -9,7 +9,7 @@ title: About
     <h2>Background</h2>
     <p>I have a background in web design and front-end development. I care about building accessible, performant websites with clear, maintainable code and enjoy building modular components that scale.</p>
 
-    <h3>Qualifications</h3>
+<h3>Qualifications</h3>
     <ul class="qual-list">
       <li>Strong HTML, CSS, and JavaScript skills</li>
       <li>Experience with responsive design and accessibility best practices</li>
