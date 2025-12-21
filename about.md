@@ -4,7 +4,7 @@ title: About
 ---
 
 <section class="about-section container">
-  <img src="{{ '/assets/images/profile.svg' | relative_url }}" alt="Solmaz profile" class="about-photo">
+  <img src="{{ '/assets/images/profile.jpeg' | relative_url }}" alt="Solmaz profile" class="about-photo">
   <div class="about-content">
     <h2>Background</h2>
     <p>I have a background in web design and front-end development. I care about building accessible, performant websites with clear, maintainable code and enjoy building modular components that scale.</p>
