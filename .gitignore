@@ -1,0 +1,6 @@
+/.sass-cache
+/_site
+/.jekyll-cache
+.bundle
+vendor/bundle
+node_modules

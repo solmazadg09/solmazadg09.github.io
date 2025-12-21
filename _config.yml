@@ -1,0 +1,10 @@
+title: "Solmaz Adg"
+email: ""
+description: "A clean, responsive personal site built with Jekyll"
+baseurl: "" # the subpath of your site, e.g. /project
+url: "https://solmazadg09.github.io" # the base hostname & protocol for your site
+markdown: kramdown
+permalink: /:title/
+
+# Plugins (if needed)
+plugins: []
